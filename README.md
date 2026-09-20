@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="./banner-github.png" alt="Banner de Omar Contla" width="100%" />
-</p>
-
+<p align="center"> <img src="https://raw.githubusercontent.com/Omar-Contla/Omar-Contla/main/banner-github.png" alt="Omar Contla - Software Developer" width="100%"> </p>
 # 👋 Hola, soy Omar Contla
 
 ### 💻 Estudiante de Desarrollo de Software
