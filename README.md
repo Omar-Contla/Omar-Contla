@@ -70,18 +70,6 @@ Repositorio con ejercicios, algoritmos y prácticas de estructuras de datos desa
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Omar-Contla&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Contla&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Contacto
 
 📌 GitHub: [github.com/Omar-Contla](https://github.com/Omar-Contla)
